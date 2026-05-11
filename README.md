@@ -1,4 +1,4 @@
-# 🧠 NeetCode Solutions — @furqan-moin
+# 🧠 NeetCode Solutions
 
 > 🚀 Synced automatically from [NeetCode.io](https://neetcode.io)  
 > 📂 Repository: `neetcode-submissions-150`
